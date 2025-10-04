@@ -84,6 +84,10 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/refreshray/real/refs/heads/main/afn2.m3u8
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="", TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/wandering-oldman/document/refs/heads/main/tlc.m3u8
 
 #EXTINF:-1 group-title="ช่องรายการเด็ก" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/cartoonnetwork.png",CARTOON NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -262,4 +266,13 @@ https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hub-premier2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hub-premier3-1.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="",fubo-sports-network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://stream1.freetv.fun/fubo-sports-network-1.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="",skysports-mix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://stream1.freetv.fun/skysports-mix--wj-1.ctv
+
 
