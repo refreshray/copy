@@ -83,11 +83,14 @@ https://live5.inwstream.com/transcoder_F1/khongdeethailand_inwiptv.stream/chunks
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://lh5.googleusercontent.com/proxy/SyjdOyZ5n100OnybY5ikzHsmnCpxV3jatWl6y3IIaGx8g1MmpTUCE6_jlHSoCmMyg8b2xF5Cq0E_-TPsd8WL7nO6WMEpKwBbEFqKKzbcuqMAm9qurpDBvGierU6RWJsY41hWJ00zQg", MySci
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://live3.inwstream.com/transcoder_F1/mysci_inwiptv.stream/chunks.m3u8
+https://raw.githubusercontent.com/refreshray/real/refs/heads/main/MYSCI.m3u8
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
-
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://e7.pngegg.com/pngimages/903/320/png-clipart-axn-television-channel-sony-channel-television-show-axn-television-angle-thumbnail.png", AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/refreshray/real/refs/heads/main/AXN.m3u8
 
 
