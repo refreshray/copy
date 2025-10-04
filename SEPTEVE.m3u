@@ -64,8 +64,30 @@ https://live3.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/chunks.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://live2.inwstream.com/transcoder_F1/truexzyte_inwiptv.stream/chunks.m3u8
-
-
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://static.uflixtv.cc/images/tv/png/th-ais-animalshow.png", animalshow
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://live3.inwstream.com/transcoder_F1/animalshow_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", สำรวจโลก
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://live3.inwstream.com/transcoder_F1/samrujlok_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png", THAINESS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://live3.inwstream.com/transcoder_F1/thainess_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png", ของดีประเทศไทย
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://live5.inwstream.com/transcoder_F1/khongdeethailand_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://lh5.googleusercontent.com/proxy/SyjdOyZ5n100OnybY5ikzHsmnCpxV3jatWl6y3IIaGx8g1MmpTUCE6_jlHSoCmMyg8b2xF5Cq0E_-TPsd8WL7nO6WMEpKwBbEFqKKzbcuqMAm9qurpDBvGierU6RWJsY41hWJ00zQg", MySci
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://live3.inwstream.com/transcoder_F1/mysci_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png", HISTORY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 
 
 
