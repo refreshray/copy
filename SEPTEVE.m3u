@@ -162,5 +162,104 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", astro-premier1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier1-2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", astro-premier2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier2-2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", astro-premier2 สำรอง 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-premier2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", astro-grandstand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", astro-grandstand สำรอง 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand1.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", astro-grandstand สำรอง 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/astro-grandstand2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", Sky Sport premier_FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/skysport-premier.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", Sky Sport-new 4K_UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/vspo4k.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", Sky Sport-maineven
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/skysport-mainevent.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", Sky Sport-maineven สำรอง 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://stream1.freetv.fun/e71680f7d258bd5f74fef4a5e56308434a8b4d7e1d0a92786de3b157b5574b0e.ctv
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", Sky Sport-maineven สำรอง 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://stream1.freetv.fun/skysports-epl--wj-1.ctv
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", Sky Sports+_1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://stream1.freetv.fun/aed05ada91bd67fec4d66c3749600827a2f811c82463650c8b32e84c262890bb.ctv
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", NBC Sports_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://stream1.freetv.fun/536f6ee15d7478049c8fd3f680471e1b7bcfd15da8424ae69897ab39db77a4b3.ctv
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", USA network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://stream1.freetv.fun/c433bf5087602742d877d4ad2d350f6d843ac115882f66b91753082a67cdf84e.ctv
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", now-premier
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/now-premier1.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", now-premier2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/now-premier2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", now-premier3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/now-premier3.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", premier-sport2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/premier-sport2-1.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", premier-sport2 สำรอง 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/premier-sport2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", arena-premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/arena-premium.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", arena-premium 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/arena-premium1.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", arena-premium 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/arena-premium2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", arena-premium 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/arena-premium3.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", hub-premier2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hub-premier2.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="", hub-premier3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/hub-premier3-1.m3u8
 
