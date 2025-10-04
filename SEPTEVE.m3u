@@ -128,6 +128,10 @@ https://live3.inwstream.com/transcoder_F1/aismonomaxsports8_inwiptv.stream/chunk
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://live3.inwstream.com/transcoder_F1/aismonomaxsports9_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png", afn
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://raw.githubusercontent.com/refreshray/real/refs/heads/main/afn.m3u8
 
 
 
